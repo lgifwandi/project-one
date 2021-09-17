@@ -13,10 +13,10 @@ $.ajax({
     url: `https://data.cityofnewyork.us/resource/erm2-nwe9.json?incident_zip=${userInput}`
   }).then(
     (openData) => {
-      
-      // console.log(openData);
+    
       
       policeData = openData;
+      recentPoliceData = policeData.slice(0,4);
       render();
     },
     (error) => {
@@ -26,13 +26,13 @@ $.ajax({
 }
 
 function render(){
-  
+
   for ( let i = 0; i < 5 ; i++ ) {
      
-     $zipCode.text(policeData[i].incident_zip);
-     $time.text(policeData[i].created_date);
-     $complaint.text(policeData[i].descriptor);
-     $status.text(policeData[i].status);
+     $zipCode.text(recentPoliceData[i].incident_zip);
+     $time.text(recentPoliceData[i].created_date);
+     $complaint.text(recentPoliceData[i].descriptor);
+     $status.text(recentPoliceData[i].status);
 
     }
 }
