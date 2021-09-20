@@ -16,8 +16,8 @@ Technologies Used
 
 Screenshot
 -------------------------------------------------------------------------------
-![App!](~/Desktop/project-one/images/App.png)
-![Wireframe!](~/Desktop/project-one/images/Wireframe.png)
+![App!](/Desktop/project-one/images/App.png)
+![Wireframe!](/Desktop/project-one/images/Wireframe.png)
 
 Getting Started
 -------------------------------------------------------------------------------
