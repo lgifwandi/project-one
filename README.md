@@ -16,8 +16,8 @@ Technologies Used
 
 Screenshot
 -------------------------------------------------------------------------------
-![App!](/Users/leesmacbookpro/Desktop/project-one/images/App.jpg)
-![Wireframe!](//Users/leesmacbookpro/Desktop/project-one/images/Wireframe.jpg)
+![App!](images/App.jpg)
+![Wireframe!](images/Wireframe.jpg)
 
 
 Getting Started
