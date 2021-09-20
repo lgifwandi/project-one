@@ -16,44 +16,17 @@ It's an application that displays five recents crime reported in New York city b
 
 #Screenshot
 -------------------------------------------------------------------------------
-
-
-
-
-
-
+![App!](~/Desktop/project-one/images/App.png)
+![Wireframe!](~/Desktop/project-one/images/Wireframe.png)
 
 #Getting Started
 -------------------------------------------------------------------------------
-
-
-
-
-
-
+ [click here] (https://vercel.com/nypdapi/project-one) to see the deployed app!
 
 #Future Enhancements
 -------------------------------------------------------------------------------
+I want to be able to make the app display the complaints description when a user type in the number of recent complaints.
 
-.
-
-
-h1 {
-    background-color : royalblue;
-    color:white; 
-    font-size: 2.0rem;
-    text-align:center;
-    font-style: normal;
-
-}
-.mainContent{
-    display: inline-grid;
-    position: fixed;
-    top: 4.5em;
-    right: 12.5em;
-    text-align:right;
-    
-}
 
 
 
