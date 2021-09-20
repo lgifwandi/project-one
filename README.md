@@ -1,7 +1,7 @@
 Five recents complaints
 -------------------------------------------------------------------------------
 
-It's an app that displays five recents complaints reported in New York city by typing the zip code.
+It's an app that display five recents complaints reported in New York city by typing the zip code.
 
 Technologies Used
 -------------------------------------------------------------------------------
