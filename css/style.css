@@ -1,14 +1,28 @@
+body {
+    font-family: 'Helvetica', 'Arial', sans-serif;  
+    background: white 
+}
+
+.container {
+    
+    left: 0;
+    height: 300px;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0.1em;;
+    width: 100%;
+}
+
+.container img {
+    max-width: 100%;
+}
+
 h1 {
     background-color : royalblue;
     color:white; 
     font-size: 2.0rem;
     text-align:center;
     font-style: normal;
-
-}
-.mainContent{
-    display: inline-grid;
-    position: absolute;
-    top: 4.5em;
-    right: 12.5em;
 }
