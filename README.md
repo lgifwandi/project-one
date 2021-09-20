@@ -1,4 +1,4 @@
-Five recents complaints
+Five recent complaints
 -------------------------------------------------------------------------------
 
 It's an app that display five recents complaints reported in New York city by typing the zip code.
