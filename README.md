@@ -16,8 +16,9 @@ Technologies Used
 
 Screenshot
 -------------------------------------------------------------------------------
-![App!](/Desktop/project-one/images/App.png)
-![Wireframe!](/Desktop/project-one/images/Wireframe.png)
+![App!](/Users/leesmacbookpro/Desktop/project-one/images/App.png)
+![Wireframe!](/Users/leesmacbookpro/Desktop/project-one/images/Wireframe.png)
+
 
 Getting Started
 -------------------------------------------------------------------------------
@@ -25,7 +26,7 @@ Getting Started
 
 Future Enhancements
 -------------------------------------------------------------------------------
-I want to be able to make the app display the complaints description when a user type in the number of recent complaints that he wants.
+I want to be able to make the app display the complaints description when a user type in the number of recent complaints.
 
 
 
