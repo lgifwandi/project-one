@@ -58,10 +58,10 @@ console.log(shortenedArray);
 //A forEach to display five recent complaints
 shortenedArray.forEach(function(incident){
 
-  let zipComplaint = $(`<p>incident_zip : ${incident.incident_zip}</p>`);
-  let timeComplaint = $(`<p>created_date :${incident.created_date}</p>`);
-  let typeComplaint = $(`<p>complaint_type :${incident.complaint_type}</p>`);
-  let statusComplaint = $(`<p>status :${incident.status}</p>`);
+  let zipComplaint = $(`<p>Incident_Zip : ${incident.incident_zip}</p>`);
+  let timeComplaint = $(`<p>Created_Date :${incident.created_date}</p>`);
+  let typeComplaint = $(`<p>Complaint_Type :${incident.complaint_type}</p>`);
+  let statusComplaint = $(`<p>Status :${incident.status}</p>`);
 
   $mainContent.append(zipComplaint,timeComplaint,typeComplaint,statusComplaint);
 });
