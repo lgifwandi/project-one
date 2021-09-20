@@ -12,7 +12,7 @@ Technologies Used
 - jQuery
 - Hosted on Vercel
 - AJAX used to receive data from ana external source NYPDapi.
-- NYPD API
+- NYC API
 
 Screenshot
 -------------------------------------------------------------------------------
